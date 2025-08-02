@@ -50,8 +50,6 @@ For example:
 A robin.net 1.2.3.4,1.1.1.1,2.2.2.2
 Is a round-robin rule for robin.net which will serve out responses pointing to 1.2.3.4, 1.1.1.1, and 2.2.2.2, iterating through that order every time a request is made by any client for the robin.net entry.
 
-NOTE : These IP's aren't included as a list to the client in the response - they still only get just one IP in the response (could change that later)
-
 # DNS Rebinding
 FakeDNS supports rebinding rules, which basically means that the server accepts a certain number of requests from a client for a domain until a threshold (default 1 request) and then it changes the IP address to a different one.
 
