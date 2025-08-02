@@ -13,7 +13,8 @@ bryanhalf@gmail.com - Email
 
 # USAGE:
 node FakeDNS -c Config path -i interface IP address --rebind
-the rules.txt i've added it's just an example.
+
+read the rules.txt for an example.
 
 # Supported Request Types
 - A
