@@ -1,0 +1,2 @@
+A   ^prod\.ros\.rockstargames\.com\.?$   ip here
+A   ^prod\.cloud\.rockstargames\.com\.?$   ip here
