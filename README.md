@@ -20,9 +20,11 @@ read the rules.txt for an example.
 
 # Supported Request Types
 - A
-- TXT
 - AAAA
+- CNAME
 - PTR
+- TXT
+- MX
 - SOA
 
 # Misc
