@@ -11,8 +11,9 @@ Official Developer/Creator:
 Bugs: @crypt0s - Twitter
 bryanhalf@gmail.com - Email
 
-USAGE:
+# USAGE:
 node FakeDNS -c Config path -i interface IP address --rebind
+the rules.txt i've added it's just an example.
 
 # Supported Request Types
 - A
