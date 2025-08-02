@@ -1,2 +1,9 @@
 A   ^prod\.ros\.rockstargames\.com\.?$   ip here
 A   ^prod\.cloud\.rockstargames\.com\.?$   ip here
+
+A example.com 127.0.0.1
+CNAME cname.test.com other.test.com
+TXT txt.test.com "this is a fake txt"
+MX mail.test.com mail.test.com
+PTR ptr.test.com some.reverse.com
+SOA soa.test.com 127.0.0.1
