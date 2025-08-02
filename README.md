@@ -28,7 +28,7 @@ read the rules.txt for an example.
 # Misc
 - Supports DNS Rebinding
 - Supports round-robin
-- 
+
 # Round-Robin
 Round-robin rules are implemented. Every time a client requests a matching rule, FakeDNS will serve out the next IP in the list of IP's provided in the rule.
 A list of IP's is comma-separated.
