@@ -1,4 +1,4 @@
-# I have rewritten the original Python script into JavaScript to improve usability and integration within my own project. This change enhances compatibility for developers working in JavaScript environments and streamlines maintenance. The new version maintains all original functionality while leveraging JavaScript’s strengths for easier deployment and extension. After all big thanks to Crypt0s.
+I've rewritten the original Python script into JavaScript to improve usability and integration within my own project. This change enhances compatibility for developers working in JavaScript environments and streamlines maintenance. The new version maintains all original functionality while leveraging JavaScript’s strengths for easier deployment and extension. After all big thanks to Crypt0s.
 
 # Official Python Script
 https://github.com/Crypt0s/FakeDns
