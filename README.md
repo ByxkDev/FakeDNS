@@ -8,7 +8,9 @@ https://github.com/Crypt0s/FakeDns
 Now with round-robin & improved options!
 
 Official Developer/Creator:
+
 Bugs: @crypt0s - Twitter
+
 bryanhalf@gmail.com - Email
 
 # USAGE:
