@@ -1,4 +1,14 @@
-I've rewritten the original Python script into JavaScript to improve usability and integration within my own project. This change enhances compatibility for developers working in JavaScript environments and streamlines maintenance. The new version maintains all original functionality while leveraging JavaScript’s strengths for easier deployment and extension. After all big thanks to Crypt0s.
+I've rewritten the original Python script into Javascript to improve usability and integration within my own project. This port enhances compatibility for developers working with Javascript and streamlines future maintenance and deployment workflows.
+
+The Javascript version retains all original functionality while leveraging Javascript’s asynchronous capabilities and modular structure for better extensibility. Additionally, I've implemented support for previously missing DNS record types:
+
+- CNAME
+
+- MX
+
+This makes the tool more flexible for advanced DNS testing scenarios, including DNS rebinding and protocol spoofing.
+
+Big thanks to Crypt0s for the original script and concept.
 
 # Official Python Script
 https://github.com/Crypt0s/FakeDns
